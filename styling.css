@@ -1,0 +1,19 @@
+.end{
+    display: flex;
+    gap: 20px;
+}
+.start{
+    display: flex;
+    gap: 40px;
+}
+span{
+    color: rgb(114, 169, 33);
+}
+.display{
+    display: flex;
+    justify-content: center;
+}
+.soso{
+    display: flex;
+    gap: 110px;
+}
